@@ -1,16 +1,8 @@
-# password_locker
+# Furina's Keep
+---
+### Disclaimer: The images in the code are not mine and I do not claim them as my works. All rights to those images are from Genshin.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is just a simple password generating application that was used as simple practice for learning Flutter and Dart.
+___
+## Usage:
+The application will walk you through a set up when first started. It will ask for a secret phrase from you that it will use to generate seemingly random passwords base on any phrase given to it later. The random generator does use a cryptographically secure random number generator to make the password. 
